@@ -1,1 +1,1 @@
-# DATASCI200-Assignment-1
+# DATASCI200-Assignments
